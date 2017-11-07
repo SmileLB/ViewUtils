@@ -27,6 +27,7 @@ public class BaseActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void setContentView() {
+
     }
 
     public void initViews() {
